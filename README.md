@@ -1,6 +1,6 @@
 # The world of Android & Kotlin
 
-#### Advanced Android in Kotlin includes the following lessons:
+#### Android Fundamentals in Kotlin include the following lessons:
 
 Lesson 1: Build your first app
 - [1.0 Install Android Studio](https://codelabs.developers.google.com/codelabs/kotlin-android-training-install-studio/index.html?index=..%2F..android-kotlin-fundamentals#0)
