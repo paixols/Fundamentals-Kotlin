@@ -3,11 +3,11 @@
 #### Android Fundamentals in Kotlin include the following lessons:
 
 - Lesson 1: Build your first app
-  - [1.0 Install Android Studio](https://codelabs.developers.google.com/codelabs/kotlin-android-training-install-studio/index.html?index=..%2F..android-kotlin-fundamentals#0)
-  - [1.1 Get started](https://codelabs.developers.google.com/codelabs/kotlin-android-training-get-started/index.html?index=..%2F..android-kotlin-fundamentals#0)
-  - [1.2 Basic app anatomy](https://codelabs.developers.google.com/codelabs/kotlin-android-training-app-anatomy/index.html?index=..%2F..android-kotlin-fundamentals#0)
-  - [1.3 Image resources and compatibility](https://codelabs.developers.google.com/codelabs/kotlin-android-training-images-compat/index.html?index=..%2F..android-kotlin-fundamentals#0)
-  - [1.4 Learn to help yourself](https://codelabs.developers.google.com/codelabs/kotlin-android-training-available-resources/index.html?index=..%2F..android-kotlin-fundamentals#0)
+  - [X] [1.0 Install Android Studio](https://codelabs.developers.google.com/codelabs/kotlin-android-training-install-studio/index.html?index=..%2F..android-kotlin-fundamentals#0)
+  - [X] [1.1 Get started](https://codelabs.developers.google.com/codelabs/kotlin-android-training-get-started/index.html?index=..%2F..android-kotlin-fundamentals#0)
+  - [X] [1.2 Basic app anatomy](https://codelabs.developers.google.com/codelabs/kotlin-android-training-app-anatomy/index.html?index=..%2F..android-kotlin-fundamentals#0)
+  - [X] [1.3 Image resources and compatibility](https://codelabs.developers.google.com/codelabs/kotlin-android-training-images-compat/index.html?index=..%2F..android-kotlin-fundamentals#0)
+  - [X] [1.4 Learn to help yourself](https://codelabs.developers.google.com/codelabs/kotlin-android-training-available-resources/index.html?index=..%2F..android-kotlin-fundamentals#0)
 - Lesson 2: Layouts
   - [2.1 Linear layout using the Layout Editor](https://codelabs.developers.google.com/codelabs/kotlin-android-training-linear-layout/index.html?index=..%2F..android-kotlin-fundamentals#0)
   - [2.2 Add user interactivity](https://codelabs.developers.google.com/codelabs/kotlin-android-training-interactivity/index.html?index=..%2F..android-kotlin-fundamentals#0)
