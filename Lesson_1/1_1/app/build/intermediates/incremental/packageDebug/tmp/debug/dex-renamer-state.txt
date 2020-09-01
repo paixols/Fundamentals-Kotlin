@@ -1,0 +1,4 @@
+#Mon Aug 31 17:31:04 PDT 2020
+base.0=/home/goldcat/Software/Fundamentals-Kotlin/Lesson_1/1_1/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
